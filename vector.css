@@ -1,7 +1,10 @@
+body{
+	overflow-y:hidden;
+}
 #particle-js{
 	background-color: white;
 	background-size: cover;
-	height: 100%;
+	height: 150%;
 	width: 100%;
 	position: absolute;
 	top: 0;
