@@ -1,0 +1,33 @@
+#particle-js{
+	background-color: white;
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.a{
+	background: rgba(236, 240, 241,1.0);
+	background-size: cover;
+	height: 50vh;
+	width: 50vw;
+	position: absolute;
+	top: 25vh;
+	left: 27vw;
+}
+.b{
+	background-color: blue;
+	background-size: cover;
+	height: 10vh;
+	width: 50vw;
+	position: absolute;
+	top: 20vh;
+	left: 27vw;
+}
+img{	
+	position: absolute;
+	top: -8vh;
+	left: 21vw;
+}
+
